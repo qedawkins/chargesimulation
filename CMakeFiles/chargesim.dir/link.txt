@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/chargesim.dir/chargesim_generated_charge_sim_cuda.cu.o  -o chargesim -rdynamic /opt/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt -lglut -lGL -lGLU 

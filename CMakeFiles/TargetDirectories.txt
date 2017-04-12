@@ -1,0 +1,3 @@
+/home/quinn/thepowerofcuda/CMakeFiles/rebuild_cache.dir
+/home/quinn/thepowerofcuda/CMakeFiles/edit_cache.dir
+/home/quinn/thepowerofcuda/CMakeFiles/chargesim.dir
